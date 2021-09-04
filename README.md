@@ -15,7 +15,7 @@ My Name is Eva. I´m a bachelor student at Universidad Autónoma de Entre Ríos 
 <a href="https://www.linkedin.com/in/mariaevaschettini/">
   <img align="left" alt="Maria Eva Schettini" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="">
+<a href="https://discord.com/channels/@me">
   <img align="left" alt="Maria Eva Schettini" width="22px" src="https://github.com/mariaevaschettini/mariaevaschettini/blob/main/discord.png" />
 </a>
 <a href="https://stackoverflow.com/users/16155007/eva-schettini">
