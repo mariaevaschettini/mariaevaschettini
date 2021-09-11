@@ -21,7 +21,10 @@ My Name is Eva. I´m a bachelor student at Universidad Autónoma de Entre Ríos 
 <a href="https://stackoverflow.com/users/16155007/eva-schettini">
   <img align="left" alt="Maria Eva Schettini" width="22px" src="https://github.com/mariaevaschettini/mariaevaschettini/blob/main/stack-overflow.png" />
 </a>
-
+<a href="https://app.slack.com/client/T029UEDAPV2/slack-connect">
+  <img align="left" alt="Maria Eva Schettini" width="22px" src="https://github.com/mariaevaschettini/mariaevaschettini/blob/main/slack.png" />
+</a>
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 <br />
 
 #### Tech & Tools Preference
