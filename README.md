@@ -37,5 +37,6 @@ My Name is Eva. I´m a bachelor student at Universidad Autónoma de Entre Ríos 
 
 ![mariaeva's github stats](https://github-readme-stats.vercel.app/api?username=mariaevaschettini&show_icons=true&theme=radical)
 <br />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariaevaschettini&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+</p>
 
